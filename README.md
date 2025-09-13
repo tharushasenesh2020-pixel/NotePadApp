@@ -17,4 +17,4 @@ It is a Notepad-like text editor with basic file operations and extended feature
 ### 2. Running the Program
 Clone this repository:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/tharushasenesh2020-pixel/NotePadApp.git>
